@@ -1,0 +1,21 @@
+# pylons_e070n10_e075n12_4184458
+# do not edit below this line
+# Last Written Fri Feb  7 12:26:09 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.34101 12.25148 171.49 409.653
+# END pylons_e070n10_e075n12_4184458
+# pylons_e070n10_e075n12_4184466
+# do not edit below this line
+# Last Written Fri Feb  7 12:32:27 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.34101 12.25148 171.49 410.034
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.34203 12.25267 159.50 397.816
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.34490 12.25403 145.56 385.701
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.34682 12.25494 134.50 385.777
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.34948 12.25620 140.91 386.14
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.35220 12.25754 118.13 407.886
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.35283 12.25918 110.77 430.12
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 75.35332 12.26056 96.14 430.995
+OBJECT_BUILDING_MESH_DETAILED e070n10_e075n12_4184466cables00029.ac 75.34152 12.25207 165.50 90
+OBJECT_BUILDING_MESH_DETAILED e070n10_e075n12_4184466cables00036.ac 75.34767 12.25662 127.82 90
+# END pylons_e070n10_e075n12_4184466
