@@ -10,6 +10,15 @@
     <APPROACH>12197</APPROACH>
   </frequencies>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp" lat="N12 59.039094" lon="E80 9.877164" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="1" lat="N11 55.03028" lon="E75 33.23325" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="2" lat="N11 55.02246" lon="E75 33.21245" heading="160"  radius="44" airlineCodes="" />
+
+        <Parking index="0" type="gate" name="3" lat="N11 55.01465" lon="E75 33.19530" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="4" lat="N11 55.00683" lon="E75 33.17066" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="5" lat="N11 54.99903" lon="E75 33.14981" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="6" lat="N11 54.99128" lon="E75 33.12895" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="7" lat="N11 54.98341" lon="E75 33.10810" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="8" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+
   </parkingList>
 </groundnet>
