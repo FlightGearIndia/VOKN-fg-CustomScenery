@@ -30,7 +30,13 @@
         <Parking index="0" type="gate" name="11R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="12L" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="12" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="12R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="13L" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="13" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="13R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="14L" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="14" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
 
-        <Parking index="0" type="gate" name="8" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="14R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
   </parkingList>
 </groundnet>
