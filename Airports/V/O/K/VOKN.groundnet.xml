@@ -19,6 +19,18 @@
         <Parking index="0" type="gate" name="6" lat="N11 54.99128" lon="E75 33.12895" heading="160"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="7" lat="N11 54.98341" lon="E75 33.10810" heading="160"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="8" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="9L" lat="N11 54.97356" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="9" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="9R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="10L" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="10" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="10R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="11L" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="11" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="11R" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="12L" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="12" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
 
+        <Parking index="0" type="gate" name="8" lat="N11 54.97561" lon="E75 33.08725" heading="160"  radius="44" airlineCodes="" />
   </parkingList>
 </groundnet>
